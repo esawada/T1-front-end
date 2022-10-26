@@ -9,4 +9,14 @@ body {
     margin: 10px round;
     padding-left: 16px;
     padding-right: 16px;
+    border: double blue;
+    
+}
+p{
+  font-size:xx-large;
+  font: optional;
+  color: chocolate;
+}
+h2{
+  border: double yellow;
 }
