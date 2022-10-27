@@ -17,6 +17,19 @@ p{
   font: optional;
   color: chocolate;
 }
+h1{
+  font-size: 20px;
+  border: double blue;
+}
 h2{
-  border: double yellow;
+  font-size: 20px;
+  border: double blue;
+}
+h3{
+  font-size: 20px;
+  border: double blue;
+}
+h4{
+  font-size: 20px;
+  border: double blue;
 }
