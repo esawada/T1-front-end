@@ -1,10 +1,44 @@
 *{
     margin: 0;
 }
-header{
-    display: flex;
+/* header{
     justify-content: center;
-}
+} */
 .categorias{
     display: inline-flex;
 }
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+  }
+/* .container {
+    font-size: 10px;
+    width: 100%;
+    margin: 10px round;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: double blue;
+    
+ } */
+p{
+  font-size:xx-large;
+  font: optional;
+  color: chocolate;
+}
+/* h1{
+  font-size: 20px;
+  border: double blue;
+}
+h2{
+  font-size: 20px;
+  border: double blue;
+}
+h3{
+  font-size: 20px;
+  border: double blue;
+}
+h4{
+  font-size: 20px;
+  border: double blue;
+} */
