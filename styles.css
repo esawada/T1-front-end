@@ -12,36 +12,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
 }
-/* .container {
-  font-size: 10px;
-  width: 100%;
-  margin: 10px round;
-  padding-left: 16px;
-  padding-right: 16px;
-  border: double blue;
-  
-} */
 p{
 font-size:xx-large;
 font: optional;
 color: chocolate;
 }
-/* h1{
-font-size: 20px;
-border: double blue;
-}
-h2{
-font-size: 20px;
-border: double blue;
-}
-h3{
-font-size: 20px;
-border: double blue;
-}
-h4{
-font-size: 20px;
-border: double blue;
-} */
 footer {
   bottom: 0;
   background-color: white;
@@ -49,5 +24,5 @@ footer {
   width: 100%;
   height: 40px;    
   text-align: center;
-  line-height: 70px;
+  line-height: 40px;
 }
